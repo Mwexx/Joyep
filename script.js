@@ -198,8 +198,8 @@ document.addEventListener('DOMContentLoaded', () => {
   
   // Initialize forms (UPDATE PHONE NUMBER BELOW)
   // Replace '254700000000' with actual JOYEP WhatsApp number
-  setupWhatsAppForm('booking-form', '254104081145', 'course');
-  setupWhatsAppForm('application-form', '254104081145');
+  setupWhatsAppForm('booking-form', '254740481359', 'course');
+  setupWhatsAppForm('application-form', '254740481359');
   
   // ===== PARALLAX EFFECT FOR HERO BACKGROUND =====
   const initParallax = () => {
